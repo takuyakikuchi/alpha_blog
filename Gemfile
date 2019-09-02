@@ -12,6 +12,8 @@ gem 'puma', '~> 3.11'
 gem 'bootstrap-sass', '~> 3.3.5'
 gem 'jquery-rails'
 gem 'sass-rails', '~> 5.0'
+gem 'will_paginate', '3.1.7'
+gem 'bootstrap-will_paginate', '0.0.10'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
